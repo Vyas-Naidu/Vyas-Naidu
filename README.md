@@ -59,7 +59,7 @@ Show Image
 </p>
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+  <i>"First, solve the problem. Then, write the code." – Vyas Naidu</i>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/vyas-naidu" target="_blank">LinkedIn</a> •
